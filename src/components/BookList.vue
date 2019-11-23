@@ -4,8 +4,7 @@
             {{title}}
         </h1>
     </div>
-</template>>
-
+</template>
 <script>
     export default {
         name : 'BookList',
@@ -16,7 +15,6 @@
         }
     }
 </script>
-
 <style>
     h1, h2 {
         font-weight: normal;
